@@ -75,7 +75,7 @@ Bu Şartlar zaman zaman güncellenebilir. Güncel metin yayımlandığı anda ge
 ## 9) İletişim
 
 Bu Şartlarla ilgili sorular için:  
-**E-posta:** (buraya destek e-postanı yaz)
+**E-posta:** sentie.studio@outlook.com
 
 ---
 
