@@ -1,4 +1,4 @@
-# LUMIO – Kullanım Şartları
+# LUMIO – Kullanım Şartları (TR)
 
 **Son güncelleme:** 01.03.2026
 
@@ -79,5 +79,83 @@ Bu Şartlarla ilgili sorular için:
 
 ---
 
-**Sayfa bağlantısı:**  
-https://oguzhanaydin6.github.io/Lumio-Privacy/terms/
+---
+
+# LUMIO – Terms of Use (EN)
+
+**Last updated:** 2026-03-01
+
+## Welcome
+
+By downloading, installing, or using LUMIO (the “App”), you agree to these Terms of Use (“Terms”). If you do not agree, do not use the App.
+
+---
+
+## Summary
+
+LUMIO is an app that provides meal suggestions, recipe content, weekly planning, shopping lists, fridge-matching features, and similar kitchen/planning tools. Content in the App is provided for general information and convenience.
+
+LUMIO does not provide medical advice, dietitian services, or professional healthcare counseling. Especially for infant nutrition, allergies, intolerances, special diets, or any health conditions, you should seek advice from an appropriate qualified professional.
+
+You are responsible for checking ingredient suitability, allergen information, product labels, portion selection, and whether consumption is appropriate for you.
+
+Food safety (storage conditions, expiration dates, hygiene, cross-contamination risk, cooking temperature/doneness, and safe consumption conditions) must be checked by the user.
+
+Recipe results may vary due to ingredient quality, kitchen equipment, measurements, environmental conditions, and cooking methods. LUMIO does not guarantee a specific outcome or suitability.
+
+Premium features within LUMIO may be purchased via Google Play and/or the Apple App Store. Pricing, subscription renewals, cancellations, and refunds are subject to the rules/policies of the relevant app store.
+
+To the extent permitted by applicable law, LUMIO is provided “as is.” Uninterrupted or error-free operation is not guaranteed.
+
+---
+
+## 1) Use of the App
+
+- You agree to use the App in compliance with these Terms and applicable laws.
+- App features and content may change, be updated, or be removed over time.
+
+## 2) Health & Nutrition Disclaimer
+
+- LUMIO is not a healthcare service and does not provide medical/professional advice.
+- For allergies, intolerances, infant nutrition, special diets, or any health condition, you should consult an appropriate qualified professional.
+- Ingredient suitability, allergen checks, portion choices, and consumption suitability are your responsibility.
+- You are responsible for food safety checks such as hygiene, storage, expiration dates, cross-contamination prevention, and safe cooking/consumption conditions.
+
+## 3) Premium / Subscriptions / In-App Purchases
+
+- Premium features may be purchased via Google Play and/or the Apple App Store.
+- Subscriptions may auto-renew unless canceled in the store settings.
+- Pricing, renewals, cancellations, and refunds are governed by the relevant store’s policies (Google Play / App Store).
+- The scope of Premium features is described in the App and may change over time.
+
+## 4) Ads
+
+The App may display advertisements. Ad content may be provided by third parties.
+
+## 5) Prohibited Use
+
+You agree not to:
+- Use the App for unlawful purposes,
+- Weaken security or reverse engineer the App,
+- Use bots/automation to generate excessive usage,
+- Disrupt or harm the normal operation of the App.
+
+## 6) Disclaimer & Limitation of Liability
+
+- The App is provided “as is.”
+- We do not guarantee uninterrupted, error-free, or always-available service.
+- Liability is limited to the maximum extent permitted by applicable law.
+
+## 7) Privacy Policy
+
+Personal data handling is governed by our Privacy Policy:  
+https://oguzhanaydin6.github.io/Lumio-Privacy/
+
+## 8) Changes
+
+We may update these Terms from time to time. The current version becomes effective when published.
+
+## 9) Contact
+
+For questions about these Terms:  
+**Email:** sentie.studio@outlook.com
